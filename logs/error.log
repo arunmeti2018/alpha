@@ -1,0 +1,9 @@
+[20 Dec, 2024 - 21:35:48:3548] [31merror[39m: [31msignup error User validation failed: password: Path `password` (`1267`) is shorter than the minimum allowed length (6).[39m
+[20 Dec, 2024 - 21:37:43:3743] [31merror[39m: [31msignup error User validation failed: password: Password must be at least 6 characters long.[39m
+[20 Dec, 2024 - 21:38:26:3826] [31merror[39m: [31msignup error User validation failed: password: Password must be at least 6 characters long.[39m
+[20 Dec, 2024 - 21:40:37:4037] [31merror[39m: [31msignup error User validation failed: password: Password must be at least 6 characters long.[39m
+[20 Dec, 2024 - 21:41:07:417] [31merror[39m: [31msignup error User validation failed: password: Path `password` (`1267`) is shorter than the minimum allowed length (6).[39m
+[20 Dec, 2024 - 21:41:18:4118] [31merror[39m: [31msignup error User validation failed: password: Path `password` (`1267`) is shorter than the minimum allowed length (6).[39m
+[20 Dec, 2024 - 21:42:00:420] [31merror[39m: [31msignup error bcrypt is not defined[39m
+[20 Dec, 2024 - 21:48:50:4850] [31merror[39m: [31msignup error Cannot set headers after they are sent to the client[39m
+[20 Dec, 2024 - 21:49:30:4930] [31merror[39m: [31msignup error Cannot read properties of undefined (reading 'length')[39m
