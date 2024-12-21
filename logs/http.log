@@ -1077,3 +1077,551 @@
 [20 Dec, 2024 - 21:50:31:5031] [34minfo[39m: [34m[39m
 [34m☘️  MongoDB Connected! Db host: localhost[39m
 [34m[39m
+[20 Dec, 2024 - 21:53:10:5310] [34minfo[39m: [34mServer is running on port 3000[39m
+[20 Dec, 2024 - 21:53:10:5310] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:06:55:655] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:06:56:656] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:07:41:741] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:07:41:741] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:07:45:745] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:07:46:746] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:07:55:755] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:07:55:755] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:08:26:826] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:08:26:826] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:09:50:950] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:09:50:950] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:09:57:957] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:09:57:957] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:08:108] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:08:108] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:12:1012] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:12:1012] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:36:1036] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:36:1036] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:38:1038] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:38:1038] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:46:1046] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:46:1046] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:48:1048] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:48:1048] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:52:1052] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:52:1052] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:10:56:1056] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:10:56:1056] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:08:118] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:08:118] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:12:1112] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:12:1112] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:21:1121] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:22:1122] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:25:1125] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:25:1125] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:29:1129] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:29:1129] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:11:45:1145] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:11:45:1145] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:12:08:128] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:12:08:128] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:12:13:1213] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:12:13:1213] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:15:58:1558] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:15:58:1558] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:06:166] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:06:166] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:17:1617] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:17:1617] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:26:1626] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:26:1626] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:28:1628] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:28:1628] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:50:1650] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:50:1650] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:16:52:1652] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:16:52:1652] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:18:54:1854] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:18:54:1854] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:02:192] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:02:192] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:10:1910] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:10:1910] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:15:1915] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:15:1915] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:19:1919] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:19:1919] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:21:1921] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:22:1922] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:25:1925] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:25:1925] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:27:1927] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:27:1927] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:32:1932] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:32:1932] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:38:1938] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:38:1938] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:47:1947] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:47:1947] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:19:53:1953] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:19:53:1953] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:20:00:200] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:20:00:200] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:20:44:2044] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:20:45:2045] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:22:33:2233] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:22:33:2233] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:22:40:2240] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:22:40:2240] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:22:44:2244] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:22:44:2244] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:23:22:2322] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:23:22:2322] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:23:43:2343] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:23:43:2343] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:23:56:2356] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:23:56:2356] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:24:05:245] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:24:05:245] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:24:28:2428] [31merror[39m: [31mlogin route failed [39m
+[21 Dec, 2024 - 13:25:00:250] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:25:00:250] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:25:04:254] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:25:04:254] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:25:09:259] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:25:09:259] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:25:20:2520] [31merror[39m: [31mlogin route failed [39m
+[21 Dec, 2024 - 13:26:06:266] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:26:06:266] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:27:01:271] [31merror[39m: [31msignup error Cannot set headers after they are sent to the client[39m
+[21 Dec, 2024 - 13:27:18:2718] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:27:18:2718] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:27:36:2736] [31merror[39m: [31msignup error Cannot set headers after they are sent to the client[39m
+[21 Dec, 2024 - 13:27:47:2747] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:27:47:2747] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:29:07:297] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:29:07:297] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:29:09:299] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:29:10:2910] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:29:17:2917] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:29:17:2917] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:29:24:2924] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:29:24:2924] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:29:32:2932] [31merror[39m: [31msignup error Cannot set headers after they are sent to the client[39m
+[21 Dec, 2024 - 13:30:03:303] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:30:03:303] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:30:53:3053] [31merror[39m: [31mlogin route failed [39m
+[21 Dec, 2024 - 13:33:03:333] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:33:03:333] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:33:05:335] [31merror[39m: [31mlogin route failed bcrypt is not defined[39m
+[21 Dec, 2024 - 13:34:30:3430] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:34:30:3430] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:38:46:3846] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:38:46:3846] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:06:396] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:06:396] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:09:399] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:09:399] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:23:3923] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:23:3923] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:27:3927] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:27:3927] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:36:3936] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:36:3936] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:40:3940] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:40:3940] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:39:48:3948] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:39:48:3948] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:46:03:463] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:46:03:463] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:46:47:4647] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:46:47:4647] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:46:53:4653] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:46:53:4653] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:46:59:4659] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:46:59:4659] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:06:476] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:06:476] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:14:4714] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:14:4714] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:29:4729] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:30:4730] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:31:4731] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:31:4731] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:46:4746] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:46:4746] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:49:4749] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:49:4749] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:51:4751] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:51:4751] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:47:55:4755] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:47:55:4755] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:48:02:482] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:48:02:482] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:48:05:485] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:48:05:485] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:48:09:489] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:48:09:489] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:48:12:4812] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:48:12:4812] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:50:45:5045] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:50:45:5045] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:50:50:5050] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:50:50:5050] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:50:52:5052] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:50:53:5053] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:50:56:5056] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:50:56:5056] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:51:07:517] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:51:07:517] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:51:11:5111] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:51:11:5111] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:51:19:5119] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:51:19:5119] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:51:25:5125] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:51:25:5125] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:51:34:5134] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:51:34:5134] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:01:531] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:01:531] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:12:5312] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:12:5312] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:15:5315] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:15:5315] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:42:5342] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:42:5342] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:51:5351] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:51:5351] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:53:53:5353] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:53:53:5353] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:09:549] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:09:549] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:11:5411] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:11:5411] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:19:5419] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:19:5419] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:26:5426] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:26:5426] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:33:5433] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:33:5433] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:37:5437] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:38:5438] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:54:43:5443] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:54:43:5443] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:55:00:550] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:55:00:550] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:55:03:553] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:55:03:553] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:55:06:556] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:55:07:557] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:55:08:558] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:55:43:5543] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:55:43:5543] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:00:560] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:00:560] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:03:563] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:03:563] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:08:568] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:08:568] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:11:5611] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:11:5611] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:19:5619] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:19:5619] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:23:5623] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:23:5623] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:30:5630] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:30:5630] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:56:39:5639] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:56:39:5639] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:57:12:5712] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:57:12:5712] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:57:16:5716] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:57:16:5716] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:57:31:5731] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:57:31:5731] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:57:35:5735] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:57:35:5735] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 13:57:48:5748] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 13:57:48:5748] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:00:26:026] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:00:26:026] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:00:34:034] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:00:34:034] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:00:58:058] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:00:58:058] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:01:02:12] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:01:02:12] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:01:26:126] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:01:26:126] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:01:37:137] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:01:37:137] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[21 Dec, 2024 - 14:01:50:150] [34minfo[39m: [34mServer is running on port 3000[39m
+[21 Dec, 2024 - 14:01:50:150] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
