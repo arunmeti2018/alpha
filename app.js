@@ -3,6 +3,7 @@ import { createServer } from "http"
 import cors from "cors"
 import { rateLimit } from "express-rate-limit"
 import authRoutes from "./routes/authRoutes.js"
+import cookieParser from "cookie-parser"
 const app = express();
 const httpServer = createServer(app);
 
@@ -31,11 +32,13 @@ const limiter = rateLimit({
 app.use(limiter)
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser())
 
 app.get("/", (req, res) => {
     res.send("j")
 })
 
 app.use("/auth", authRoutes);
+
 
 export { httpServer }

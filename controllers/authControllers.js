@@ -3,6 +3,7 @@ import User from "../models/userModel.js";
 import bcrypt from "bcryptjs"
 
 import { generateToken } from "../utils/generateToken.js";
+import cloudinary from "../utils/cloudinary.js";
 const signup = async (req, res) => {
     const { fullName, email, password } = req.body;
     try {
@@ -124,5 +125,68 @@ const logout = (req, res) => {
     });
 };
 
+const updateProfile = async (req, res) => {
 
-export { signup, login ,logout}
+    try {
+        const { profilePic } = req.body;
+
+        if (!profilePic) {
+            return res.status(400).json({
+                success: false,
+                message: "Please upload a profile picture"
+            })
+        }
+        const uploadedResponse = await cloudinary.uploader.upload(profilePic, {
+            resource_type: "image", // Ensure only images are uploaded
+            folder: "Alpha", // Optional: organize uploads into folders
+        });
+        if (!uploadedResponse || !uploadedResponse.secure_url) {
+            return res.status(500).json({
+                success: false,
+                message: "Failed to upload image to Cloudinary"
+            });
+        }
+        const updatedUser = await User.findByIdAndUpdate(req.user._id, { profilePic: uploadedResponse.secure_url }, { new: true }).select("-password")
+
+
+        res.status(200).json({
+            success: true,
+            message: "Profile updated successfully",
+            user: updatedUser
+        })
+
+
+    } catch (error) {
+        logger.error("uploading profiled pic failed" + error.message)
+        res.status(500).json({
+            success: false,
+            message: "Failed to update profile"
+        })
+    }
+
+}
+
+const getUser = async (req, res) => {
+    try {
+        const user = await User.findById(req.user._id).select("-password");
+        if (!user) {
+            return res.status(404).json({
+                success: false,
+                message: "User not found"
+            })
+        }
+        res.status(200).json({
+            success: true,
+            message: "user found",
+            user: user
+        })
+
+    } catch (error) {
+        logger.error("failed to get user " + error.message)
+        res.status(500).json({
+            success: false,
+            message: "Failed to get user"
+        })
+    }
+}
+export { signup, login, logout, updateProfile, getUser }

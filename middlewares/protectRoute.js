@@ -1,8 +1,10 @@
 import jwt from "jsonwebtoken";
-
+import User from "../models/userModel.js"
+import logger from "../loggers/winston.js";
 const protectRoute = async (req, res, next) => {
-    const token = req.headers.authorization?.split(" ")[1];
 
+    const token = req.cookies.token
+ 
     if (!token) {
         return res.status(401).send({
             success: false,
@@ -11,8 +13,21 @@ const protectRoute = async (req, res, next) => {
     }
     try {
         const decoded = await jwt.verify(token, process.env.JWT_KEY);
-        req.user = decoded;
-
+        if (!decoded) {
+            return res.status(401).json({
+                success: false,
+                message: 'Invalid token'
+            })
+        }
+        const user = await User.findById(decoded.userId).select("-password")
+        if (!user) {
+            return res.status(401).json({
+                message: false,
+                message: "user not found"
+            })
+        }
+        req.user = user;
+      
         next();
     } catch (error) {
         logger.error("token verification failed", error)
