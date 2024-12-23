@@ -3,6 +3,7 @@ import { createServer } from "http"
 import cors from "cors"
 import { rateLimit } from "express-rate-limit"
 import authRoutes from "./routes/authRoutes.js"
+import messageRoutes from "./routes/MessageRoutes.js"
 import cookieParser from "cookie-parser"
 const app = express();
 const httpServer = createServer(app);
@@ -39,6 +40,7 @@ app.get("/", (req, res) => {
 })
 
 app.use("/auth", authRoutes);
+app.use("/message", messageRoutes)
 
 
 export { httpServer }
