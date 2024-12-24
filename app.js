@@ -8,10 +8,7 @@ import cookieParser from "cookie-parser"
 const app = express();
 const httpServer = createServer(app);
 
-app.use(cors({
-    origin: "*",
-    methods: ["GET", "POST", "PUT", "DELETE"],
-}))
+
 
 // Rate limiter to avoid misuse of the service and avoid cost spikes
 const limiter = rateLimit({
@@ -30,17 +27,20 @@ const limiter = rateLimit({
         );
     },
 });
-app.use(limiter)
 app.use(express.json())
+app.use(limiter)
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser())
 
-app.get("/", (req, res) => {
-    res.send("j")
-})
+app.use(cors({
+    origin: 'http://locahost:5500',  // Frontend origin (update if needed) // Allowed methods
+    credentials: true,  // Allow cookies to be sent with requests
+}));
 
 app.use("/auth", authRoutes);
 app.use("/message", messageRoutes)
-
+app.get("/", (req, res) => {
+    res.redirect("signup")
+})
 
 export { httpServer }

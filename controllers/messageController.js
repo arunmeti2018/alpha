@@ -1,14 +1,16 @@
 import Message from "../models/messageModel.js"
 import User from "../models/userModel.js";
-const getUserdForSidebar = async (req, res) => {
+import logger from "../loggers/winston.js"
+const getUsersForSidebar = async (req, res) => {
     try {
         const myId = req.user._id;
-        const filteredUsers = await User.find({ _id: { $ne: loggedInUserId } }).select("-password")
 
-        if (!filteredUsers) {
+        const filteredUsers = await User.find({ _id: { $ne: myId } }).select("-password")
+
+        if (!filteredUsers || filteredUsers.length === 0) {
             return res.status(404).json({ success: false, message: "No users found" })
         }
-        res.json(200).json({
+        res.status(200).json({
             success: true,
             message: "fetched all the users ",
             users: filteredUsers
@@ -103,4 +105,4 @@ const sendMessage = async (req, res) => {
 }
 
 
-export { getUserdForSidebar, getMessage, sendMessage }
+export { getUsersForSidebar, getMessage, sendMessage }

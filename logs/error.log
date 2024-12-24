@@ -14,3 +14,12 @@
 [21 Dec, 2024 - 13:29:32:2932] [31merror[39m: [31msignup error Cannot set headers after they are sent to the client[39m
 [21 Dec, 2024 - 13:30:53:3053] [31merror[39m: [31mlogin route failed [39m
 [21 Dec, 2024 - 13:33:05:335] [31merror[39m: [31mlogin route failed bcrypt is not defined[39m
+[24 Dec, 2024 - 14:19:09:199] [31merror[39m: [31merror in getuserfor sidebar controllerloggedInUserId is not defined[39m
+[24 Dec, 2024 - 14:19:27:1927] [31merror[39m: [31merror in getuserfor sidebar controllerloggedInUserId is not defined[39m
+[24 Dec, 2024 - 14:21:12:2112] [31merror[39m: [31merror in getuserfor sidebar controllerCannot set headers after they are sent to the client[39m
+[24 Dec, 2024 - 14:21:38:2138] [31merror[39m: [31merror in getuserfor sidebar controllerCannot set headers after they are sent to the client[39m
+[24 Dec, 2024 - 16:21:00:210] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
+[24 Dec, 2024 - 16:22:32:2232] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
+[24 Dec, 2024 - 16:23:24:2324] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
+[24 Dec, 2024 - 16:30:19:3019] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
+[24 Dec, 2024 - 16:33:55:3355] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
