@@ -4,7 +4,7 @@ import logger from "../loggers/winston.js";
 const protectRoute = async (req, res, next) => {
 
     const token = req.cookies.token
- 
+
     if (!token) {
         return res.status(401).send({
             success: false,
@@ -27,7 +27,7 @@ const protectRoute = async (req, res, next) => {
             })
         }
         req.user = user;
-      
+
         next();
     } catch (error) {
         logger.error("token verification failed", error)

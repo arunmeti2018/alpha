@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 const usersForSidebar = async () => {
     try {
-        const response = await fetch(`${baseUrl}/message/get-users`, {
+        const response = await fetch(`/message/get-users`, {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
@@ -85,4 +85,4 @@ const usersForSidebar = async () => {
     }
 };
 
-// usersForSidebar()
+usersForSidebar()

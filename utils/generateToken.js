@@ -3,16 +3,16 @@ import logger from "../loggers/winston.js";
 
 export const generateToken = async (userId, res) => {
     try {
-      
+
         const token = jwt.sign({ userId }, process.env.JWT_KEY, { expiresIn: "3d" });
 
         res.cookie("token", token, {
 
             maxAge: 3 * 24 * 60 * 60 * 1000,
             httpOnly: true,
-            secure: false,
-            // secure: process.env.NODE_ENV === "production",
-            sameSite: "None"
+
+            secure: process.env.NODE_ENV === "production",
+            sameSite: "strict"
         })
         return token
     } catch (error) {
