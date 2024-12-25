@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - Chatty</title>
+    <link rel="stylesheet" href="/css/signup.css">
+</head>
+
+<body>
+    <div class="container">
+        <main class="signup-section">
+            <div class="signup-content">
+                <header>
+                    <h1 class="logo">Chatty</h1>
+                    <div class="settings-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="3"></circle>
+                            <path
+                                d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z">
+                            </path>
+                        </svg>
+                    </div>
+                </header>
+                <section class="signup-form-section">
+                    <h2>Create Account</h2>
+                    <p>Get started with your free account</p>
+                    <form id="signupForm" class="signup-form">
+                        <div class="form-group">
+                            <label for="fullName">Full Name</label>
+                            <input type="text" id="fullName" name="fullName" placeholder="John Doe" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="you@example.com" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <div class="password-input">
+                                <input type="password" id="password" name="password" placeholder="••••••••" required>
+                                <button type="button" id="togglePassword" class="toggle-password"
+                                    aria-label="Toggle password visibility">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                                        <circle cx="12" cy="12" r="3"></circle>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                        <button type="submit" class="submit-btn">Create Account</button>
+                    </form>
+                    <p class="login-link">Already have an account? <a href="/auth/login">Sign in</a></p>
+                </section>
+            </div>
+        </main>
+        <aside class="image-section">
+            <div class="grid-container">
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+            </div>
+            <div class="image-content">
+                <h2>Join our community</h2>
+                <p>Connect with friends, share moments, and stay in touch with your loved ones.</p>
+            </div>
+        </aside>
+    </div>
+    <script src="/js/signup.js"></script>
+</body>
+
+</html>

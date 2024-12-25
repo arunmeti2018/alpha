@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClearTalk Dashboard</title>
+    <link rel="stylesheet" href="/css/dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <svg class="logo-icon" viewBox="0 0 24 24" width="24" height="24">
+                    <path d="M3 3h18v18H3V3zm16 16V5H5v14h14z" />
+                    <path d="M15 7v2H7V7h8zm0 4v2H7v-2h8zm0 4v2H7v-2h8z" />
+                </svg>
+                <span class="logo-text">ClearTalk</span>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="section-header">
+                    <h2>DIRECT MESSAGES</h2>
+                    <button class="add-button">+</button>
+                </div>
+                <ul class="user-list">
+                    <!-- dynamically generate -->
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h2>CHANNELS</h2>
+                <ul class="channel-list">
+                    <!-- Channels will be added here -->
+                </ul>
+            </div>
+            <div class="sidebar-bottom">
+                <div class="user-profile">
+                    <div class="user-avatar">
+                        <span class="avatar-letter">A</span>
+                    </div>
+                    <span class="user-name">arun m</span>
+                </div>
+                <div class="profile-actions">
+                    <button class="action-button edit">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" />
+                            <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" />
+                        </svg>
+                    </button>
+                    <button class="action-button settings">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <circle cx="12" cy="12" r="3" />
+                            <path
+                                d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9c.26.604.852.987 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
+                        </svg>
+                    </button>
+                    <button class="action-button logout">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
+                            <polyline points="16 17 21 12 16 7" />
+                            <line x1="21" y1="12" x2="9" y2="12" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="welcome-container">
+                <div class="bubbles">
+                    <div class="bubble bubble-1"></div>
+                    <div class="bubble bubble-2"></div>
+                    <div class="bubble bubble-3"></div>
+                </div>
+                <h1 class="welcome-text">
+                    <span class="highlight">Hi!</span> Welcome to
+                    <span class="brand">ClearTalk</span> Chat App.
+                </h1>
+            </div>
+        </main>
+
+
+    </div>
+    <script src="/js/dashboard.js"></script>
+</body>
+
+</html>
