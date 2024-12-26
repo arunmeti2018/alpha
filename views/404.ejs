@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <link rel="stylesheet" href="/css/404.css">
+</head>
+
+<body>
+    <div class="container">
+        <svg class="error-illustration" viewBox="0 0 200 100">
+            <text x="50%" y="50%" dy=".35em" text-anchor="middle" class="error-text">404</text>
+        </svg>
+        <h1>Oops! Page Not Found</h1>
+        <p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+        </p>
+        <button class="home-button">Go to Homepage</button>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const errorText = document.querySelector('.error-text');
+            const homeButton = document.querySelector('.home-button');
+
+            // Animate the 404 text
+            function animateErrorText() {
+                errorText.style.transition = 'transform 0.5s ease-in-out';
+                errorText.style.transform = 'translateY(-10px)';
+                setTimeout(() => {
+                    errorText.style.transform = 'translateY(0)';
+                }, 500);
+            }
+
+            // Run the animation every 3 seconds
+            setInterval(animateErrorText, 3000);
+
+            // Add click event to the home button
+            homeButton.addEventListener('click', () => {
+                window.location.href = "/auth/dashboard"
+            });
+
+            // Add hover effect to the button
+            homeButton.addEventListener('mouseenter', () => {
+                homeButton.style.transform = 'translateY(-2px) scale(1.05)';
+            });
+
+            homeButton.addEventListener('mouseleave', () => {
+                homeButton.style.transform = 'translateY(0) scale(1)';
+            });
+        });</script>
+</body>
+
+</html>

@@ -23,3 +23,11 @@
 [24 Dec, 2024 - 16:23:24:2324] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
 [24 Dec, 2024 - 16:30:19:3019] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
 [24 Dec, 2024 - 16:33:55:3355] [31merror[39m: [31merror in getuserfor sidebar controllerCannot read properties of undefined (reading '_id')[39m
+[26 Dec, 2024 - 16:07:19:719] [31merror[39m: [31mlogin route failed Invalid status code: { success: true, message: 'login successfull', user: [Object] }[39m
+[26 Dec, 2024 - 16:07:34:734] [31merror[39m: [31mlogin route failed Invalid status code: { success: true, message: 'login successfull', user: [Object] }[39m
+[26 Dec, 2024 - 18:32:28:3228] [31merror[39m: [31muploading profiled pic failedMust supply cloud_name[39m
+[26 Dec, 2024 - 18:33:18:3318] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:33:19:3319] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:37:40:3740] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:40:48:4048] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name alpha2[39m
+[26 Dec, 2024 - 18:43:19:4319] [31merror[39m: [31muploading profiled pic failedCannot create property 'Symbol(level)' on string 'image uploaded'[39m

@@ -30,9 +30,10 @@ const limiter = rateLimit({
         );
     },
 });
-app.use(express.json())
+
 app.use(limiter)
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json({ limit: '10mb' }));
+app.use(express.urlencoded({ limit: '10mb', extended: true }));
 app.use(cookieParser())
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -48,7 +49,7 @@ app.use(cors({
 app.use("/auth", authRoutes);
 app.use("/message", messageRoutes)
 app.get("*", (req, res) => {
-    res.render("signup")
+    res.render("404")
 })
 
 export { httpServer }

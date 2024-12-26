@@ -2908,3 +2908,2219 @@
 [26 Dec, 2024 - 00:14:28:1428] [34minfo[39m: [34m[39m
 [34m☘️  MongoDB Connected! Db host: localhost[39m
 [34m[39m
+[26 Dec, 2024 - 16:06:03:63] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:06:03:63] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:07:15:715] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:07:15:715] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:07:19:719] [31merror[39m: [31mlogin route failed Invalid status code: { success: true, message: 'login successfull', user: [Object] }[39m
+[26 Dec, 2024 - 16:07:34:734] [31merror[39m: [31mlogin route failed Invalid status code: { success: true, message: 'login successfull', user: [Object] }[39m
+[26 Dec, 2024 - 16:07:48:748] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:07:48:748] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:09:21:921] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:09:21:921] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:09:38:938] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:09:38:938] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:10:50:1050] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:10:50:1050] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:10:54:1054] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:10:54:1054] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:11:26:1126] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:11:26:1126] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:11:47:1147] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:11:47:1147] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:13:25:1325] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:13:25:1325] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:13:36:1336] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:13:36:1336] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:15:00:150] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:15:00:150] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:15:48:1548] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:15:48:1548] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:15:54:1554] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:15:55:1555] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:15:58:1558] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:15:58:1558] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:16:04:164] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:16:04:164] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:16:12:1612] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:16:12:1612] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:16:19:1619] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:16:19:1619] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:16:26:1626] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:16:26:1626] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:16:31:1631] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:16:31:1631] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:18:33:1833] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:18:33:1833] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:18:39:1839] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:18:39:1839] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:18:44:1844] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:18:44:1844] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:19:05:195] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:19:05:195] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:20:39:2039] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:20:39:2039] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:20:43:2043] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:20:43:2043] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:22:53:2253] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:22:53:2253] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:22:59:2259] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:22:59:2259] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:23:02:232] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:23:02:232] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:23:26:2326] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:23:26:2326] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:23:33:2333] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:23:33:2333] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:24:01:241] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:24:01:241] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:24:30:2430] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:24:30:2430] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:24:54:2454] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:24:54:2454] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:26:37:2637] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:26:37:2637] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:27:19:2719] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:27:19:2719] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:27:24:2724] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:27:25:2725] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:27:42:2742] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:27:42:2742] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:27:49:2749] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:27:49:2749] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:28:08:288] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:28:08:288] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:29:54:2954] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:29:54:2954] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:03:303] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:03:303] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:10:3010] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:10:3010] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:16:3016] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:16:3016] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:25:3025] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:25:3025] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:30:3030] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:30:3030] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:34:3034] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:34:3034] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:37:3037] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:37:3037] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:42:3042] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:42:3042] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:46:3046] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:46:3046] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:50:3050] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:51:3051] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:30:59:3059] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:30:59:3059] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:02:312] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:02:312] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:05:315] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:06:316] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:11:3111] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:11:3111] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:13:3113] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:14:3114] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:18:3118] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:18:3118] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:31:24:3124] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:31:24:3124] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:36:03:363] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:36:03:363] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:36:37:3637] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:36:37:3637] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:56:20:5620] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:56:20:5620] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 16:56:28:5628] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 16:56:28:5628] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:01:50:150] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:01:50:150] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:18:218] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:18:218] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:21:221] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:21:221] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:26:226] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:26:226] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:30:230] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:30:230] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:34:234] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:34:234] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:41:241] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:41:241] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:47:247] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:47:247] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:02:51:251] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:02:51:251] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:03:05:35] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:03:05:35] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:03:26:326] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:03:27:327] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:04:45:445] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:04:45:445] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:05:36:536] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:05:36:536] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:06:32:632] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:06:32:632] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:06:36:636] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:06:36:636] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:07:07:77] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:07:07:77] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:07:14:714] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:07:14:714] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:08:14:814] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:08:14:814] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:25:07:257] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:25:07:257] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:25:32:2532] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:25:32:2532] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:25:41:2541] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:25:41:2541] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:26:20:2620] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:26:20:2620] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:27:45:2745] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:27:46:2746] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:27:49:2749] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:27:49:2749] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:27:52:2752] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:27:52:2752] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:28:00:280] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:28:00:280] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:28:05:285] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:28:05:285] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:28:40:2840] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:28:40:2840] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:29:03:293] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:29:04:294] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:29:07:297] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:29:07:297] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:29:59:2959] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:29:59:2959] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:30:03:303] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:30:03:303] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:30:06:306] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:30:06:306] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:30:09:309] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:30:09:309] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:32:10:3210] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:32:10:3210] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:32:18:3218] [34minfo[39m: [34m[34minfo[34m[39m
+[26 Dec, 2024 - 17:32:46:3246] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:32:46:3246] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:32:55:3255] [34minfo[39m: [34m<ref *2> IncomingMessage {[39m
+[34m  _events: {[39m
+[34m    close: undefined,[39m
+[34m    error: undefined,[39m
+[34m    data: undefined,[39m
+[34m    end: undefined,[39m
+[34m    readable: undefined[39m
+[34m  },[39m
+[34m  _readableState: ReadableState {[39m
+[34m    highWaterMark: 16384,[39m
+[34m    buffer: [[39m
+[34m      <Buffer 2d 2d 2d 2d 2d 2d 57 65 62 4b 69 74 46 6f 72 6d 42 6f 75 6e 64 61 72 79 50 6a 38 57 6b 73 5a 48 75 6b 78 46 52 43 54 4f 0d 0a 43 6f 6e 74 65 6e 74 2d ... 65486 more bytes>[39m
+[34m    ],[39m
+[34m    bufferIndex: 0,[39m
+[34m    length: 65536,[39m
+[34m    pipes: [],[39m
+[34m    awaitDrainWriters: null,[39m
+[34m    [Symbol(kState)]: 1315084[39m
+[34m  },[39m
+[34m  _maxListeners: undefined,[39m
+[34m  socket: <ref *1> Socket {[39m
+[34m    connecting: false,[39m
+[34m    _hadError: false,[39m
+[34m    _parent: null,[39m
+[34m    _host: null,[39m
+[34m    _closeAfterHandlingError: false,[39m
+[34m    _events: {[39m
+[34m      close: [Array],[39m
+[34m      error: [Function: socketOnError],[39m
+[34m      prefinish: undefined,[39m
+[34m      finish: undefined,[39m
+[34m      drain: [Function: bound socketOnDrain],[39m
+[34m      data: [Function: bound socketOnData],[39m
+[34m      end: [Array],[39m
+[34m      readable: undefined,[39m
+[34m      timeout: [Function: socketOnTimeout],[39m
+[34m      resume: [Function: onSocketResume],[39m
+[34m      pause: [Function: onSocketPause][39m
+[34m    },[39m
+[34m    _readableState: ReadableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      buffer: [],[39m
+[34m      bufferIndex: 0,[39m
+[34m      length: 0,[39m
+[34m      pipes: [],[39m
+[34m      awaitDrainWriters: null,[39m
+[34m      [Symbol(kState)]: 244328708[39m
+[34m    },[39m
+[34m    _writableState: WritableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      length: 0,[39m
+[34m      corked: 0,[39m
+[34m      onwrite: [Function: bound onwrite],[39m
+[34m      writelen: 0,[39m
+[34m      bufferedIndex: 0,[39m
+[34m      pendingcb: 0,[39m
+[34m      [Symbol(kState)]: 17564420,[39m
+[34m      [Symbol(kBufferedValue)]: null[39m
+[34m    },[39m
+[34m    allowHalfOpen: true,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    _eventsCount: 8,[39m
+[34m    _sockname: null,[39m
+[34m    _pendingData: null,[39m
+[34m    _pendingEncoding: '',[39m
+[34m    server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 3670,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    _server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 3670,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    parser: HTTPParser {[39m
+[34m      '0': null,[39m
+[34m      '1': [Function: parserOnHeaders],[39m
+[34m      '2': [Function: parserOnHeadersComplete],[39m
+[34m      '3': [Function: parserOnBody],[39m
+[34m      '4': [Function: parserOnMessageComplete],[39m
+[34m      '5': [Function: bound onParserExecute],[39m
+[34m      '6': [Function: bound onParserTimeout],[39m
+[34m      _headers: [],[39m
+[34m      _url: '',[39m
+[34m      socket: [Circular *1],[39m
+[34m      incoming: [Circular *2],[39m
+[34m      outgoing: null,[39m
+[34m      maxHeaderPairs: 2000,[39m
+[34m      _consumed: true,[39m
+[34m      onIncoming: [Function: bound parserOnIncoming],[39m
+[34m      joinDuplicateHeaders: null,[39m
+[34m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[34m    },[39m
+[34m    on: [Function: socketListenerWrap],[39m
+[34m    addListener: [Function: socketListenerWrap],[39m
+[34m    prependListener: [Function: socketListenerWrap],[39m
+[34m    setEncoding: [Function: socketSetEncoding],[39m
+[34m    _paused: false,[39m
+[34m    _httpMessage: ServerResponse {[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 1,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      outputData: [],[39m
+[34m      outputSize: 0,[39m
+[34m      writable: true,[39m
+[34m      destroyed: false,[39m
+[34m      _last: false,[39m
+[34m      chunkedEncoding: false,[39m
+[34m      shouldKeepAlive: true,[39m
+[34m      maxRequestsOnConnectionReached: false,[39m
+[34m      _defaultKeepAlive: true,[39m
+[34m      useChunkedEncodingByDefault: true,[39m
+[34m      sendDate: true,[39m
+[34m      _removedConnection: false,[39m
+[34m      _removedContLen: false,[39m
+[34m      _removedTE: false,[39m
+[34m      strictContentLength: false,[39m
+[34m      _contentLength: null,[39m
+[34m      _hasBody: true,[39m
+[34m      _trailer: '',[39m
+[34m      finished: false,[39m
+[34m      _headerSent: false,[39m
+[34m      _closed: false,[39m
+[34m      socket: [Circular *1],[39m
+[34m      _header: null,[39m
+[34m      _keepAliveTimeout: 5000,[39m
+[34m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m      req: [Circular *2],[39m
+[34m      _sent100: false,[39m
+[34m      _expect_continue: false,[39m
+[34m      _maxRequestsPerSocket: 0,[39m
+[34m      locals: [Object: null prototype] {},[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kBytesWritten)]: 0,[39m
+[34m      [Symbol(kNeedDrain)]: false,[39m
+[34m      [Symbol(corked)]: 0,[39m
+[34m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[34m      [Symbol(errored)]: null,[39m
+[34m      [Symbol(kHighWaterMark)]: 16384,[39m
+[34m      [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m      [Symbol(kUniqueHeaders)]: null[39m
+[34m    },[39m
+[34m    [Symbol(async_id_symbol)]: 219,[39m
+[34m    [Symbol(kHandle)]: TCP {[39m
+[34m      reading: false,[39m
+[34m      onconnection: null,[39m
+[34m      _consumed: true,[39m
+[34m      [Symbol(owner_symbol)]: [Circular *1][39m
+[34m    },[39m
+[34m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m    [Symbol(timeout)]: null,[39m
+[34m    [Symbol(kBuffer)]: null,[39m
+[34m    [Symbol(kBufferCb)]: null,[39m
+[34m    [Symbol(kBufferGen)]: null,[39m
+[34m    [Symbol(shapeMode)]: true,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kSetNoDelay)]: true,[39m
+[34m    [Symbol(kSetKeepAlive)]: false,[39m
+[34m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m    [Symbol(kBytesRead)]: 0,[39m
+[34m    [Symbol(kBytesWritten)]: 0[39m
+[34m  },[39m
+[34m  httpVersionMajor: 1,[39m
+[34m  httpVersionMinor: 1,[39m
+[34m  httpVersion: '1.1',[39m
+[34m  complete: false,[39m
+[34m  rawHeaders: [[39m
+[34m    'Host',[39m
+[34m    'localhost:3000',[39m
+[34m    'Connection',[39m
+[34m    'keep-alive',[39m
+[34m    'Content-Length',[39m
+[34m    '1018944',[39m
+[34m    'Pragma',[39m
+[34m    'no-cache',[39m
+[34m    'Cache-Control',[39m
+[34m    'no-cache',[39m
+[34m    'sec-ch-ua-platform',[39m
+[34m    '"Android"',[39m
+[34m    'User-Agent',[39m
+[34m    'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36',[39m
+[34m    'sec-ch-ua',[39m
+[34m    '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',[39m
+[34m    'Content-Type',[39m
+[34m    'multipart/form-data; boundary=----WebKitFormBoundaryPj8WksZHukxFRCTO',[39m
+[34m    'sec-ch-ua-mobile',[39m
+[34m    '?1',[39m
+[34m    'Accept',[39m
+[34m    '*/*',[39m
+[34m    'Origin',[39m
+[34m    'http://localhost:3000',[39m
+[34m    'Sec-Fetch-Site',[39m
+[34m    'same-origin',[39m
+[34m    'Sec-Fetch-Mode',[39m
+[34m    'cors',[39m
+[34m    'Sec-Fetch-Dest',[39m
+[34m    'empty',[39m
+[34m    'Referer',[39m
+[34m    'http://localhost:3000/auth/profile',[39m
+[34m    'Accept-Encoding',[39m
+[34m    'gzip, deflate, br, zstd',[39m
+[34m    'Accept-Language',[39m
+[34m    'en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7',[39m
+[34m    'Cookie',[39m
+[34m    'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  ],[39m
+[34m  rawTrailers: [],[39m
+[34m  joinDuplicateHeaders: null,[39m
+[34m  aborted: false,[39m
+[34m  upgrade: false,[39m
+[34m  url: '/update-profile',[39m
+[34m  method: 'POST',[39m
+[34m  statusCode: null,[39m
+[34m  statusMessage: null,[39m
+[34m  client: <ref *1> Socket {[39m
+[34m    connecting: false,[39m
+[34m    _hadError: false,[39m
+[34m    _parent: null,[39m
+[34m    _host: null,[39m
+[34m    _closeAfterHandlingError: false,[39m
+[34m    _events: {[39m
+[34m      close: [Array],[39m
+[34m      error: [Function: socketOnError],[39m
+[34m      prefinish: undefined,[39m
+[34m      finish: undefined,[39m
+[34m      drain: [Function: bound socketOnDrain],[39m
+[34m      data: [Function: bound socketOnData],[39m
+[34m      end: [Array],[39m
+[34m      readable: undefined,[39m
+[34m      timeout: [Function: socketOnTimeout],[39m
+[34m      resume: [Function: onSocketResume],[39m
+[34m      pause: [Function: onSocketPause][39m
+[34m    },[39m
+[34m    _readableState: ReadableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      buffer: [],[39m
+[34m      bufferIndex: 0,[39m
+[34m      length: 0,[39m
+[34m      pipes: [],[39m
+[34m      awaitDrainWriters: null,[39m
+[34m      [Symbol(kState)]: 244328708[39m
+[34m    },[39m
+[34m    _writableState: WritableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      length: 0,[39m
+[34m      corked: 0,[39m
+[34m      onwrite: [Function: bound onwrite],[39m
+[34m      writelen: 0,[39m
+[34m      bufferedIndex: 0,[39m
+[34m      pendingcb: 0,[39m
+[34m      [Symbol(kState)]: 17564420,[39m
+[34m      [Symbol(kBufferedValue)]: null[39m
+[34m    },[39m
+[34m    allowHalfOpen: true,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    _eventsCount: 8,[39m
+[34m    _sockname: null,[39m
+[34m    _pendingData: null,[39m
+[34m    _pendingEncoding: '',[39m
+[34m    server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 3670,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    _server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 3670,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    parser: HTTPParser {[39m
+[34m      '0': null,[39m
+[34m      '1': [Function: parserOnHeaders],[39m
+[34m      '2': [Function: parserOnHeadersComplete],[39m
+[34m      '3': [Function: parserOnBody],[39m
+[34m      '4': [Function: parserOnMessageComplete],[39m
+[34m      '5': [Function: bound onParserExecute],[39m
+[34m      '6': [Function: bound onParserTimeout],[39m
+[34m      _headers: [],[39m
+[34m      _url: '',[39m
+[34m      socket: [Circular *1],[39m
+[34m      incoming: [Circular *2],[39m
+[34m      outgoing: null,[39m
+[34m      maxHeaderPairs: 2000,[39m
+[34m      _consumed: true,[39m
+[34m      onIncoming: [Function: bound parserOnIncoming],[39m
+[34m      joinDuplicateHeaders: null,[39m
+[34m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[34m    },[39m
+[34m    on: [Function: socketListenerWrap],[39m
+[34m    addListener: [Function: socketListenerWrap],[39m
+[34m    prependListener: [Function: socketListenerWrap],[39m
+[34m    setEncoding: [Function: socketSetEncoding],[39m
+[34m    _paused: false,[39m
+[34m    _httpMessage: ServerResponse {[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 1,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      outputData: [],[39m
+[34m      outputSize: 0,[39m
+[34m      writable: true,[39m
+[34m      destroyed: false,[39m
+[34m      _last: false,[39m
+[34m      chunkedEncoding: false,[39m
+[34m      shouldKeepAlive: true,[39m
+[34m      maxRequestsOnConnectionReached: false,[39m
+[34m      _defaultKeepAlive: true,[39m
+[34m      useChunkedEncodingByDefault: true,[39m
+[34m      sendDate: true,[39m
+[34m      _removedConnection: false,[39m
+[34m      _removedContLen: false,[39m
+[34m      _removedTE: false,[39m
+[34m      strictContentLength: false,[39m
+[34m      _contentLength: null,[39m
+[34m      _hasBody: true,[39m
+[34m      _trailer: '',[39m
+[34m      finished: false,[39m
+[34m      _headerSent: false,[39m
+[34m      _closed: false,[39m
+[34m      socket: [Circular *1],[39m
+[34m      _header: null,[39m
+[34m      _keepAliveTimeout: 5000,[39m
+[34m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m      req: [Circular *2],[39m
+[34m      _sent100: false,[39m
+[34m      _expect_continue: false,[39m
+[34m      _maxRequestsPerSocket: 0,[39m
+[34m      locals: [Object: null prototype] {},[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kBytesWritten)]: 0,[39m
+[34m      [Symbol(kNeedDrain)]: false,[39m
+[34m      [Symbol(corked)]: 0,[39m
+[34m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[34m      [Symbol(errored)]: null,[39m
+[34m      [Symbol(kHighWaterMark)]: 16384,[39m
+[34m      [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m      [Symbol(kUniqueHeaders)]: null[39m
+[34m    },[39m
+[34m    [Symbol(async_id_symbol)]: 219,[39m
+[34m    [Symbol(kHandle)]: TCP {[39m
+[34m      reading: false,[39m
+[34m      onconnection: null,[39m
+[34m      _consumed: true,[39m
+[34m      [Symbol(owner_symbol)]: [Circular *1][39m
+[34m    },[39m
+[34m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m    [Symbol(timeout)]: null,[39m
+[34m    [Symbol(kBuffer)]: null,[39m
+[34m    [Symbol(kBufferCb)]: null,[39m
+[34m    [Symbol(kBufferGen)]: null,[39m
+[34m    [Symbol(shapeMode)]: true,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kSetNoDelay)]: true,[39m
+[34m    [Symbol(kSetKeepAlive)]: false,[39m
+[34m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m    [Symbol(kBytesRead)]: 0,[39m
+[34m    [Symbol(kBytesWritten)]: 0[39m
+[34m  },[39m
+[34m  _consuming: false,[39m
+[34m  _dumped: false,[39m
+[34m  next: [Function: next],[39m
+[34m  baseUrl: '/auth',[39m
+[34m  originalUrl: '/auth/update-profile',[39m
+[34m  _parsedUrl: Url {[39m
+[34m    protocol: null,[39m
+[34m    slashes: null,[39m
+[34m    auth: null,[39m
+[34m    host: null,[39m
+[34m    port: null,[39m
+[34m    hostname: null,[39m
+[34m    hash: null,[39m
+[34m    search: null,[39m
+[34m    query: null,[39m
+[34m    pathname: '/update-profile',[39m
+[34m    path: '/update-profile',[39m
+[34m    href: '/update-profile',[39m
+[34m    _raw: '/update-profile'[39m
+[34m  },[39m
+[34m  params: {},[39m
+[34m  query: {},[39m
+[34m  res: <ref *3> ServerResponse {[39m
+[34m    _events: [Object: null prototype] { finish: [Function: bound resOnFinish] },[39m
+[34m    _eventsCount: 1,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    outputData: [],[39m
+[34m    outputSize: 0,[39m
+[34m    writable: true,[39m
+[34m    destroyed: false,[39m
+[34m    _last: false,[39m
+[34m    chunkedEncoding: false,[39m
+[34m    shouldKeepAlive: true,[39m
+[34m    maxRequestsOnConnectionReached: false,[39m
+[34m    _defaultKeepAlive: true,[39m
+[34m    useChunkedEncodingByDefault: true,[39m
+[34m    sendDate: true,[39m
+[34m    _removedConnection: false,[39m
+[34m    _removedContLen: false,[39m
+[34m    _removedTE: false,[39m
+[34m    strictContentLength: false,[39m
+[34m    _contentLength: null,[39m
+[34m    _hasBody: true,[39m
+[34m    _trailer: '',[39m
+[34m    finished: false,[39m
+[34m    _headerSent: false,[39m
+[34m    _closed: false,[39m
+[34m    socket: <ref *1> Socket {[39m
+[34m      connecting: false,[39m
+[34m      _hadError: false,[39m
+[34m      _parent: null,[39m
+[34m      _host: null,[39m
+[34m      _closeAfterHandlingError: false,[39m
+[34m      _events: [Object],[39m
+[34m      _readableState: [ReadableState],[39m
+[34m      _writableState: [WritableState],[39m
+[34m      allowHalfOpen: true,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _eventsCount: 8,[39m
+[34m      _sockname: null,[39m
+[34m      _pendingData: null,[39m
+[34m      _pendingEncoding: '',[39m
+[34m      server: [Server],[39m
+[34m      _server: [Server],[39m
+[34m      parser: [HTTPParser],[39m
+[34m      on: [Function: socketListenerWrap],[39m
+[34m      addListener: [Function: socketListenerWrap],[39m
+[34m      prependListener: [Function: socketListenerWrap],[39m
+[34m      setEncoding: [Function: socketSetEncoding],[39m
+[34m      _paused: false,[39m
+[34m      _httpMessage: [Circular *3],[39m
+[34m      [Symbol(async_id_symbol)]: 219,[39m
+[34m      [Symbol(kHandle)]: [TCP],[39m
+[34m      [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m      [Symbol(timeout)]: null,[39m
+[34m      [Symbol(kBuffer)]: null,[39m
+[34m      [Symbol(kBufferCb)]: null,[39m
+[34m      [Symbol(kBufferGen)]: null,[39m
+[34m      [Symbol(shapeMode)]: true,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kSetNoDelay)]: true,[39m
+[34m      [Symbol(kSetKeepAlive)]: false,[39m
+[34m      [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m      [Symbol(kBytesRead)]: 0,[39m
+[34m      [Symbol(kBytesWritten)]: 0[39m
+[34m    },[39m
+[34m    _header: null,[39m
+[34m    _keepAliveTimeout: 5000,[39m
+[34m    _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m    req: [Circular *2],[39m
+[34m    _sent100: false,[39m
+[34m    _expect_continue: false,[39m
+[34m    _maxRequestsPerSocket: 0,[39m
+[34m    locals: [Object: null prototype] {},[39m
+[34m    [Symbol(shapeMode)]: false,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kBytesWritten)]: 0,[39m
+[34m    [Symbol(kNeedDrain)]: false,[39m
+[34m    [Symbol(corked)]: 0,[39m
+[34m    [Symbol(kOutHeaders)]: [Object: null prototype] {[39m
+[34m      'x-powered-by': [Array],[39m
+[34m      'ratelimit-policy': [Array],[39m
+[34m      'ratelimit-limit': [Array],[39m
+[34m      'ratelimit-remaining': [Array],[39m
+[34m      'ratelimit-reset': [Array],[39m
+[34m      'access-control-allow-origin': [Array],[39m
+[34m      'access-control-allow-credentials': [Array][39m
+[34m    },[39m
+[34m    [Symbol(errored)]: null,[39m
+[34m    [Symbol(kHighWaterMark)]: 16384,[39m
+[34m    [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m    [Symbol(kUniqueHeaders)]: null[39m
+[34m  },[39m
+[34m  body: {},[39m
+[34m  rateLimit: {[39m
+[34m    limit: 5000,[39m
+[34m    used: 4,[39m
+[34m    remaining: 4996,[39m
+[34m    resetTime: 2024-12-26T12:17:46.723Z[39m
+[34m  },[39m
+[34m  secret: undefined,[39m
+[34m  cookies: {[39m
+[34m    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  },[39m
+[34m  signedCookies: [Object: null prototype] {},[39m
+[34m  route: Route {[39m
+[34m    path: '/update-profile',[39m
+[34m    stack: [ [Layer], [Layer] ],[39m
+[34m    methods: { post: true }[39m
+[34m  },[39m
+[34m  user: {[39m
+[34m    _id: new ObjectId('676d3f7ccb28ee4c3e2f927b'),[39m
+[34m    fullName: 'ARUN M',[39m
+[34m    email: 'aa1@gmail.com',[39m
+[34m    profilePic: 'https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg',[39m
+[34m    createdAt: 2024-12-26T11:35:24.239Z,[39m
+[34m    updatedAt: 2024-12-26T11:35:24.239Z,[39m
+[34m    __v: 0[39m
+[34m  },[39m
+[34m  [Symbol(shapeMode)]: true,[39m
+[34m  [Symbol(kCapture)]: false,[39m
+[34m  [Symbol(kHeaders)]: {[39m
+[34m    host: 'localhost:3000',[39m
+[34m    connection: 'keep-alive',[39m
+[34m    'content-length': '1018944',[39m
+[34m    pragma: 'no-cache',[39m
+[34m    'cache-control': 'no-cache',[39m
+[34m    'sec-ch-ua-platform': '"Android"',[39m
+[34m    'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36',[39m
+[34m    'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',[39m
+[34m    'content-type': 'multipart/form-data; boundary=----WebKitFormBoundaryPj8WksZHukxFRCTO',[39m
+[34m    'sec-ch-ua-mobile': '?1',[39m
+[34m    accept: '*/*',[39m
+[34m    origin: 'http://localhost:3000',[39m
+[34m    'sec-fetch-site': 'same-origin',[39m
+[34m    'sec-fetch-mode': 'cors',[39m
+[34m    'sec-fetch-dest': 'empty',[39m
+[34m    referer: 'http://localhost:3000/auth/profile',[39m
+[34m    'accept-encoding': 'gzip, deflate, br, zstd',[39m
+[34m    'accept-language': 'en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7',[39m
+[34m    cookie: 'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  },[39m
+[34m  [Symbol(kHeadersCount)]: 38,[39m
+[34m  [Symbol(kTrailers)]: null,[39m
+[34m  [Symbol(kTrailersCount)]: 0[39m
+[34m}[39m
+[26 Dec, 2024 - 17:35:49:3549] [34minfo[39m: [34m<ref *2> IncomingMessage {[39m
+[34m  _events: {[39m
+[34m    close: undefined,[39m
+[34m    error: undefined,[39m
+[34m    data: undefined,[39m
+[34m    end: undefined,[39m
+[34m    readable: undefined[39m
+[34m  },[39m
+[34m  _readableState: ReadableState {[39m
+[34m    highWaterMark: 16384,[39m
+[34m    buffer: [[39m
+[34m      <Buffer 2d 2d 2d 2d 2d 2d 57 65 62 4b 69 74 46 6f 72 6d 42 6f 75 6e 64 61 72 79 56 69 35 71 37 65 6c 72 39 44 74 76 6b 44 36 42 0d 0a 43 6f 6e 74 65 6e 74 2d ... 65486 more bytes>[39m
+[34m    ],[39m
+[34m    bufferIndex: 0,[39m
+[34m    length: 65536,[39m
+[34m    pipes: [],[39m
+[34m    awaitDrainWriters: null,[39m
+[34m    [Symbol(kState)]: 1315084[39m
+[34m  },[39m
+[34m  _maxListeners: undefined,[39m
+[34m  socket: <ref *1> Socket {[39m
+[34m    connecting: false,[39m
+[34m    _hadError: false,[39m
+[34m    _parent: null,[39m
+[34m    _host: null,[39m
+[34m    _closeAfterHandlingError: false,[39m
+[34m    _events: {[39m
+[34m      close: [Array],[39m
+[34m      error: [Function: socketOnError],[39m
+[34m      prefinish: undefined,[39m
+[34m      finish: undefined,[39m
+[34m      drain: [Function: bound socketOnDrain],[39m
+[34m      data: [Function: bound socketOnData],[39m
+[34m      end: [Array],[39m
+[34m      readable: undefined,[39m
+[34m      timeout: [Function: socketOnTimeout],[39m
+[34m      resume: [Function: onSocketResume],[39m
+[34m      pause: [Function: onSocketPause][39m
+[34m    },[39m
+[34m    _readableState: ReadableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      buffer: [],[39m
+[34m      bufferIndex: 0,[39m
+[34m      length: 0,[39m
+[34m      pipes: [],[39m
+[34m      awaitDrainWriters: null,[39m
+[34m      [Symbol(kState)]: 244328708[39m
+[34m    },[39m
+[34m    _writableState: WritableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      length: 0,[39m
+[34m      corked: 0,[39m
+[34m      onwrite: [Function: bound onwrite],[39m
+[34m      writelen: 0,[39m
+[34m      bufferedIndex: 0,[39m
+[34m      pendingcb: 0,[39m
+[34m      [Symbol(kState)]: 17563908,[39m
+[34m      [Symbol(kBufferedValue)]: null,[39m
+[34m      [Symbol(kWriteCbValue)]: null,[39m
+[34m      [Symbol(kAfterWriteTickInfoValue)]: null[39m
+[34m    },[39m
+[34m    allowHalfOpen: true,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    _eventsCount: 8,[39m
+[34m    _sockname: null,[39m
+[34m    _pendingData: null,[39m
+[34m    _pendingEncoding: '',[39m
+[34m    server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 183732,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    _server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 183732,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    parser: HTTPParser {[39m
+[34m      '0': null,[39m
+[34m      '1': [Function: parserOnHeaders],[39m
+[34m      '2': [Function: parserOnHeadersComplete],[39m
+[34m      '3': [Function: parserOnBody],[39m
+[34m      '4': [Function: parserOnMessageComplete],[39m
+[34m      '5': [Function: bound onParserExecute],[39m
+[34m      '6': [Function: bound onParserTimeout],[39m
+[34m      _headers: [],[39m
+[34m      _url: '',[39m
+[34m      socket: [Circular *1],[39m
+[34m      incoming: [Circular *2],[39m
+[34m      outgoing: null,[39m
+[34m      maxHeaderPairs: 2000,[39m
+[34m      _consumed: true,[39m
+[34m      onIncoming: [Function: bound parserOnIncoming],[39m
+[34m      joinDuplicateHeaders: null,[39m
+[34m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[34m    },[39m
+[34m    on: [Function: socketListenerWrap],[39m
+[34m    addListener: [Function: socketListenerWrap],[39m
+[34m    prependListener: [Function: socketListenerWrap],[39m
+[34m    setEncoding: [Function: socketSetEncoding],[39m
+[34m    _paused: false,[39m
+[34m    _httpMessage: ServerResponse {[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 1,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      outputData: [],[39m
+[34m      outputSize: 0,[39m
+[34m      writable: true,[39m
+[34m      destroyed: false,[39m
+[34m      _last: false,[39m
+[34m      chunkedEncoding: false,[39m
+[34m      shouldKeepAlive: true,[39m
+[34m      maxRequestsOnConnectionReached: false,[39m
+[34m      _defaultKeepAlive: true,[39m
+[34m      useChunkedEncodingByDefault: true,[39m
+[34m      sendDate: true,[39m
+[34m      _removedConnection: false,[39m
+[34m      _removedContLen: false,[39m
+[34m      _removedTE: false,[39m
+[34m      strictContentLength: false,[39m
+[34m      _contentLength: null,[39m
+[34m      _hasBody: true,[39m
+[34m      _trailer: '',[39m
+[34m      finished: false,[39m
+[34m      _headerSent: false,[39m
+[34m      _closed: false,[39m
+[34m      socket: [Circular *1],[39m
+[34m      _header: null,[39m
+[34m      _keepAliveTimeout: 5000,[39m
+[34m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m      req: [Circular *2],[39m
+[34m      _sent100: false,[39m
+[34m      _expect_continue: false,[39m
+[34m      _maxRequestsPerSocket: 0,[39m
+[34m      locals: [Object: null prototype] {},[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kBytesWritten)]: 0,[39m
+[34m      [Symbol(kNeedDrain)]: false,[39m
+[34m      [Symbol(corked)]: 0,[39m
+[34m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[34m      [Symbol(errored)]: null,[39m
+[34m      [Symbol(kHighWaterMark)]: 16384,[39m
+[34m      [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m      [Symbol(kUniqueHeaders)]: null[39m
+[34m    },[39m
+[34m    timeout: 0,[39m
+[34m    [Symbol(async_id_symbol)]: 219,[39m
+[34m    [Symbol(kHandle)]: TCP {[39m
+[34m      reading: false,[39m
+[34m      onconnection: null,[39m
+[34m      _consumed: true,[39m
+[34m      [Symbol(owner_symbol)]: [Circular *1][39m
+[34m    },[39m
+[34m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m    [Symbol(timeout)]: Timeout {[39m
+[34m      _idleTimeout: -1,[39m
+[34m      _idlePrev: null,[39m
+[34m      _idleNext: null,[39m
+[34m      _idleStart: 12563,[39m
+[34m      _onTimeout: null,[39m
+[34m      _timerArgs: undefined,[39m
+[34m      _repeat: null,[39m
+[34m      _destroyed: true,[39m
+[34m      [Symbol(refed)]: false,[39m
+[34m      [Symbol(kHasPrimitive)]: false,[39m
+[34m      [Symbol(asyncId)]: 320,[39m
+[34m      [Symbol(triggerId)]: 317[39m
+[34m    },[39m
+[34m    [Symbol(kBuffer)]: null,[39m
+[34m    [Symbol(kBufferCb)]: null,[39m
+[34m    [Symbol(kBufferGen)]: null,[39m
+[34m    [Symbol(shapeMode)]: true,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kSetNoDelay)]: true,[39m
+[34m    [Symbol(kSetKeepAlive)]: false,[39m
+[34m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m    [Symbol(kBytesRead)]: 0,[39m
+[34m    [Symbol(kBytesWritten)]: 0[39m
+[34m  },[39m
+[34m  httpVersionMajor: 1,[39m
+[34m  httpVersionMinor: 1,[39m
+[34m  httpVersion: '1.1',[39m
+[34m  complete: false,[39m
+[34m  rawHeaders: [[39m
+[34m    'Host',[39m
+[34m    'localhost:3000',[39m
+[34m    'Connection',[39m
+[34m    'keep-alive',[39m
+[34m    'Content-Length',[39m
+[34m    '256183',[39m
+[34m    'Pragma',[39m
+[34m    'no-cache',[39m
+[34m    'Cache-Control',[39m
+[34m    'no-cache',[39m
+[34m    'sec-ch-ua-platform',[39m
+[34m    '"Android"',[39m
+[34m    'User-Agent',[39m
+[34m    'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36',[39m
+[34m    'sec-ch-ua',[39m
+[34m    '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',[39m
+[34m    'Content-Type',[39m
+[34m    'multipart/form-data; boundary=----WebKitFormBoundaryVi5q7elr9DtvkD6B',[39m
+[34m    'sec-ch-ua-mobile',[39m
+[34m    '?1',[39m
+[34m    'Accept',[39m
+[34m    '*/*',[39m
+[34m    'Origin',[39m
+[34m    'http://localhost:3000',[39m
+[34m    'Sec-Fetch-Site',[39m
+[34m    'same-origin',[39m
+[34m    'Sec-Fetch-Mode',[39m
+[34m    'cors',[39m
+[34m    'Sec-Fetch-Dest',[39m
+[34m    'empty',[39m
+[34m    'Referer',[39m
+[34m    'http://localhost:3000/auth/profile',[39m
+[34m    'Accept-Encoding',[39m
+[34m    'gzip, deflate, br, zstd',[39m
+[34m    'Accept-Language',[39m
+[34m    'en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7',[39m
+[34m    'Cookie',[39m
+[34m    'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  ],[39m
+[34m  rawTrailers: [],[39m
+[34m  joinDuplicateHeaders: null,[39m
+[34m  aborted: false,[39m
+[34m  upgrade: false,[39m
+[34m  url: '/update-profile',[39m
+[34m  method: 'POST',[39m
+[34m  statusCode: null,[39m
+[34m  statusMessage: null,[39m
+[34m  client: <ref *1> Socket {[39m
+[34m    connecting: false,[39m
+[34m    _hadError: false,[39m
+[34m    _parent: null,[39m
+[34m    _host: null,[39m
+[34m    _closeAfterHandlingError: false,[39m
+[34m    _events: {[39m
+[34m      close: [Array],[39m
+[34m      error: [Function: socketOnError],[39m
+[34m      prefinish: undefined,[39m
+[34m      finish: undefined,[39m
+[34m      drain: [Function: bound socketOnDrain],[39m
+[34m      data: [Function: bound socketOnData],[39m
+[34m      end: [Array],[39m
+[34m      readable: undefined,[39m
+[34m      timeout: [Function: socketOnTimeout],[39m
+[34m      resume: [Function: onSocketResume],[39m
+[34m      pause: [Function: onSocketPause][39m
+[34m    },[39m
+[34m    _readableState: ReadableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      buffer: [],[39m
+[34m      bufferIndex: 0,[39m
+[34m      length: 0,[39m
+[34m      pipes: [],[39m
+[34m      awaitDrainWriters: null,[39m
+[34m      [Symbol(kState)]: 244328708[39m
+[34m    },[39m
+[34m    _writableState: WritableState {[39m
+[34m      highWaterMark: 16384,[39m
+[34m      length: 0,[39m
+[34m      corked: 0,[39m
+[34m      onwrite: [Function: bound onwrite],[39m
+[34m      writelen: 0,[39m
+[34m      bufferedIndex: 0,[39m
+[34m      pendingcb: 0,[39m
+[34m      [Symbol(kState)]: 17563908,[39m
+[34m      [Symbol(kBufferedValue)]: null,[39m
+[34m      [Symbol(kWriteCbValue)]: null,[39m
+[34m      [Symbol(kAfterWriteTickInfoValue)]: null[39m
+[34m    },[39m
+[34m    allowHalfOpen: true,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    _eventsCount: 8,[39m
+[34m    _sockname: null,[39m
+[34m    _pendingData: null,[39m
+[34m    _pendingEncoding: '',[39m
+[34m    server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 183732,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    _server: Server {[39m
+[34m      maxHeaderSize: undefined,[39m
+[34m      insecureHTTPParser: undefined,[39m
+[34m      requestTimeout: 300000,[39m
+[34m      headersTimeout: 60000,[39m
+[34m      keepAliveTimeout: 5000,[39m
+[34m      connectionsCheckingInterval: 30000,[39m
+[34m      requireHostHeader: true,[39m
+[34m      joinDuplicateHeaders: undefined,[39m
+[34m      rejectNonStandardBodyWrites: false,[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 3,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _connections: 1,[39m
+[34m      _handle: [TCP],[39m
+[34m      _usingWorkers: false,[39m
+[34m      _workers: [],[39m
+[34m      _unref: false,[39m
+[34m      _listeningId: 2,[39m
+[34m      allowHalfOpen: true,[39m
+[34m      pauseOnConnect: false,[39m
+[34m      noDelay: true,[39m
+[34m      keepAlive: false,[39m
+[34m      keepAliveInitialDelay: 0,[39m
+[34m      highWaterMark: 16384,[39m
+[34m      httpAllowHalfOpen: false,[39m
+[34m      timeout: 0,[39m
+[34m      maxHeadersCount: null,[39m
+[34m      maxRequestsPerSocket: 0,[39m
+[34m      _connectionKey: '6::::3000',[39m
+[34m      [Symbol(IncomingMessage)]: [Function: IncomingMessage],[39m
+[34m      [Symbol(ServerResponse)]: [Function: ServerResponse],[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(async_id_symbol)]: 96,[39m
+[34m      [Symbol(kUniqueHeaders)]: null,[39m
+[34m      [Symbol(http.server.connections)]: ConnectionsList {},[39m
+[34m      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {[39m
+[34m        _idleTimeout: 30000,[39m
+[34m        _idlePrev: [TimersList],[39m
+[34m        _idleNext: [TimersList],[39m
+[34m        _idleStart: 183732,[39m
+[34m        _onTimeout: [Function: bound checkConnections],[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: 30000,[39m
+[34m        _destroyed: false,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 98,[39m
+[34m        [Symbol(triggerId)]: 97[39m
+[34m      }[39m
+[34m    },[39m
+[34m    parser: HTTPParser {[39m
+[34m      '0': null,[39m
+[34m      '1': [Function: parserOnHeaders],[39m
+[34m      '2': [Function: parserOnHeadersComplete],[39m
+[34m      '3': [Function: parserOnBody],[39m
+[34m      '4': [Function: parserOnMessageComplete],[39m
+[34m      '5': [Function: bound onParserExecute],[39m
+[34m      '6': [Function: bound onParserTimeout],[39m
+[34m      _headers: [],[39m
+[34m      _url: '',[39m
+[34m      socket: [Circular *1],[39m
+[34m      incoming: [Circular *2],[39m
+[34m      outgoing: null,[39m
+[34m      maxHeaderPairs: 2000,[39m
+[34m      _consumed: true,[39m
+[34m      onIncoming: [Function: bound parserOnIncoming],[39m
+[34m      joinDuplicateHeaders: null,[39m
+[34m      [Symbol(resource_symbol)]: [HTTPServerAsyncResource][39m
+[34m    },[39m
+[34m    on: [Function: socketListenerWrap],[39m
+[34m    addListener: [Function: socketListenerWrap],[39m
+[34m    prependListener: [Function: socketListenerWrap],[39m
+[34m    setEncoding: [Function: socketSetEncoding],[39m
+[34m    _paused: false,[39m
+[34m    _httpMessage: ServerResponse {[39m
+[34m      _events: [Object: null prototype],[39m
+[34m      _eventsCount: 1,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      outputData: [],[39m
+[34m      outputSize: 0,[39m
+[34m      writable: true,[39m
+[34m      destroyed: false,[39m
+[34m      _last: false,[39m
+[34m      chunkedEncoding: false,[39m
+[34m      shouldKeepAlive: true,[39m
+[34m      maxRequestsOnConnectionReached: false,[39m
+[34m      _defaultKeepAlive: true,[39m
+[34m      useChunkedEncodingByDefault: true,[39m
+[34m      sendDate: true,[39m
+[34m      _removedConnection: false,[39m
+[34m      _removedContLen: false,[39m
+[34m      _removedTE: false,[39m
+[34m      strictContentLength: false,[39m
+[34m      _contentLength: null,[39m
+[34m      _hasBody: true,[39m
+[34m      _trailer: '',[39m
+[34m      finished: false,[39m
+[34m      _headerSent: false,[39m
+[34m      _closed: false,[39m
+[34m      socket: [Circular *1],[39m
+[34m      _header: null,[39m
+[34m      _keepAliveTimeout: 5000,[39m
+[34m      _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m      req: [Circular *2],[39m
+[34m      _sent100: false,[39m
+[34m      _expect_continue: false,[39m
+[34m      _maxRequestsPerSocket: 0,[39m
+[34m      locals: [Object: null prototype] {},[39m
+[34m      [Symbol(shapeMode)]: false,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kBytesWritten)]: 0,[39m
+[34m      [Symbol(kNeedDrain)]: false,[39m
+[34m      [Symbol(corked)]: 0,[39m
+[34m      [Symbol(kOutHeaders)]: [Object: null prototype],[39m
+[34m      [Symbol(errored)]: null,[39m
+[34m      [Symbol(kHighWaterMark)]: 16384,[39m
+[34m      [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m      [Symbol(kUniqueHeaders)]: null[39m
+[34m    },[39m
+[34m    timeout: 0,[39m
+[34m    [Symbol(async_id_symbol)]: 219,[39m
+[34m    [Symbol(kHandle)]: TCP {[39m
+[34m      reading: false,[39m
+[34m      onconnection: null,[39m
+[34m      _consumed: true,[39m
+[34m      [Symbol(owner_symbol)]: [Circular *1][39m
+[34m    },[39m
+[34m    [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m    [Symbol(timeout)]: Timeout {[39m
+[34m      _idleTimeout: -1,[39m
+[34m      _idlePrev: null,[39m
+[34m      _idleNext: null,[39m
+[34m      _idleStart: 12563,[39m
+[34m      _onTimeout: null,[39m
+[34m      _timerArgs: undefined,[39m
+[34m      _repeat: null,[39m
+[34m      _destroyed: true,[39m
+[34m      [Symbol(refed)]: false,[39m
+[34m      [Symbol(kHasPrimitive)]: false,[39m
+[34m      [Symbol(asyncId)]: 320,[39m
+[34m      [Symbol(triggerId)]: 317[39m
+[34m    },[39m
+[34m    [Symbol(kBuffer)]: null,[39m
+[34m    [Symbol(kBufferCb)]: null,[39m
+[34m    [Symbol(kBufferGen)]: null,[39m
+[34m    [Symbol(shapeMode)]: true,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kSetNoDelay)]: true,[39m
+[34m    [Symbol(kSetKeepAlive)]: false,[39m
+[34m    [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m    [Symbol(kBytesRead)]: 0,[39m
+[34m    [Symbol(kBytesWritten)]: 0[39m
+[34m  },[39m
+[34m  _consuming: false,[39m
+[34m  _dumped: false,[39m
+[34m  next: [Function: next],[39m
+[34m  baseUrl: '/auth',[39m
+[34m  originalUrl: '/auth/update-profile',[39m
+[34m  _parsedUrl: Url {[39m
+[34m    protocol: null,[39m
+[34m    slashes: null,[39m
+[34m    auth: null,[39m
+[34m    host: null,[39m
+[34m    port: null,[39m
+[34m    hostname: null,[39m
+[34m    hash: null,[39m
+[34m    search: null,[39m
+[34m    query: null,[39m
+[34m    pathname: '/update-profile',[39m
+[34m    path: '/update-profile',[39m
+[34m    href: '/update-profile',[39m
+[34m    _raw: '/update-profile'[39m
+[34m  },[39m
+[34m  params: {},[39m
+[34m  query: {},[39m
+[34m  res: <ref *3> ServerResponse {[39m
+[34m    _events: [Object: null prototype] { finish: [Function: bound resOnFinish] },[39m
+[34m    _eventsCount: 1,[39m
+[34m    _maxListeners: undefined,[39m
+[34m    outputData: [],[39m
+[34m    outputSize: 0,[39m
+[34m    writable: true,[39m
+[34m    destroyed: false,[39m
+[34m    _last: false,[39m
+[34m    chunkedEncoding: false,[39m
+[34m    shouldKeepAlive: true,[39m
+[34m    maxRequestsOnConnectionReached: false,[39m
+[34m    _defaultKeepAlive: true,[39m
+[34m    useChunkedEncodingByDefault: true,[39m
+[34m    sendDate: true,[39m
+[34m    _removedConnection: false,[39m
+[34m    _removedContLen: false,[39m
+[34m    _removedTE: false,[39m
+[34m    strictContentLength: false,[39m
+[34m    _contentLength: null,[39m
+[34m    _hasBody: true,[39m
+[34m    _trailer: '',[39m
+[34m    finished: false,[39m
+[34m    _headerSent: false,[39m
+[34m    _closed: false,[39m
+[34m    socket: <ref *1> Socket {[39m
+[34m      connecting: false,[39m
+[34m      _hadError: false,[39m
+[34m      _parent: null,[39m
+[34m      _host: null,[39m
+[34m      _closeAfterHandlingError: false,[39m
+[34m      _events: [Object],[39m
+[34m      _readableState: [ReadableState],[39m
+[34m      _writableState: [WritableState],[39m
+[34m      allowHalfOpen: true,[39m
+[34m      _maxListeners: undefined,[39m
+[34m      _eventsCount: 8,[39m
+[34m      _sockname: null,[39m
+[34m      _pendingData: null,[39m
+[34m      _pendingEncoding: '',[39m
+[34m      server: [Server],[39m
+[34m      _server: [Server],[39m
+[34m      parser: [HTTPParser],[39m
+[34m      on: [Function: socketListenerWrap],[39m
+[34m      addListener: [Function: socketListenerWrap],[39m
+[34m      prependListener: [Function: socketListenerWrap],[39m
+[34m      setEncoding: [Function: socketSetEncoding],[39m
+[34m      _paused: false,[39m
+[34m      _httpMessage: [Circular *3],[39m
+[34m      timeout: 0,[39m
+[34m      [Symbol(async_id_symbol)]: 219,[39m
+[34m      [Symbol(kHandle)]: [TCP],[39m
+[34m      [Symbol(lastWriteQueueSize)]: 0,[39m
+[34m      [Symbol(timeout)]: Timeout {[39m
+[34m        _idleTimeout: -1,[39m
+[34m        _idlePrev: null,[39m
+[34m        _idleNext: null,[39m
+[34m        _idleStart: 12563,[39m
+[34m        _onTimeout: null,[39m
+[34m        _timerArgs: undefined,[39m
+[34m        _repeat: null,[39m
+[34m        _destroyed: true,[39m
+[34m        [Symbol(refed)]: false,[39m
+[34m        [Symbol(kHasPrimitive)]: false,[39m
+[34m        [Symbol(asyncId)]: 320,[39m
+[34m        [Symbol(triggerId)]: 317[39m
+[34m      },[39m
+[34m      [Symbol(kBuffer)]: null,[39m
+[34m      [Symbol(kBufferCb)]: null,[39m
+[34m      [Symbol(kBufferGen)]: null,[39m
+[34m      [Symbol(shapeMode)]: true,[39m
+[34m      [Symbol(kCapture)]: false,[39m
+[34m      [Symbol(kSetNoDelay)]: true,[39m
+[34m      [Symbol(kSetKeepAlive)]: false,[39m
+[34m      [Symbol(kSetKeepAliveInitialDelay)]: 0,[39m
+[34m      [Symbol(kBytesRead)]: 0,[39m
+[34m      [Symbol(kBytesWritten)]: 0[39m
+[34m    },[39m
+[34m    _header: null,[39m
+[34m    _keepAliveTimeout: 5000,[39m
+[34m    _onPendingData: [Function: bound updateOutgoingData],[39m
+[34m    req: [Circular *2],[39m
+[34m    _sent100: false,[39m
+[34m    _expect_continue: false,[39m
+[34m    _maxRequestsPerSocket: 0,[39m
+[34m    locals: [Object: null prototype] {},[39m
+[34m    [Symbol(shapeMode)]: false,[39m
+[34m    [Symbol(kCapture)]: false,[39m
+[34m    [Symbol(kBytesWritten)]: 0,[39m
+[34m    [Symbol(kNeedDrain)]: false,[39m
+[34m    [Symbol(corked)]: 0,[39m
+[34m    [Symbol(kOutHeaders)]: [Object: null prototype] {[39m
+[34m      'x-powered-by': [Array],[39m
+[34m      'ratelimit-policy': [Array],[39m
+[34m      'ratelimit-limit': [Array],[39m
+[34m      'ratelimit-remaining': [Array],[39m
+[34m      'ratelimit-reset': [Array],[39m
+[34m      'access-control-allow-origin': [Array],[39m
+[34m      'access-control-allow-credentials': [Array][39m
+[34m    },[39m
+[34m    [Symbol(errored)]: null,[39m
+[34m    [Symbol(kHighWaterMark)]: 16384,[39m
+[34m    [Symbol(kRejectNonStandardBodyWrites)]: false,[39m
+[34m    [Symbol(kUniqueHeaders)]: null[39m
+[34m  },[39m
+[34m  body: {},[39m
+[34m  rateLimit: {[39m
+[34m    limit: 5000,[39m
+[34m    used: 5,[39m
+[34m    remaining: 4995,[39m
+[34m    resetTime: 2024-12-26T12:17:46.723Z[39m
+[34m  },[39m
+[34m  secret: undefined,[39m
+[34m  cookies: {[39m
+[34m    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  },[39m
+[34m  signedCookies: [Object: null prototype] {},[39m
+[34m  route: Route {[39m
+[34m    path: '/update-profile',[39m
+[34m    stack: [ [Layer], [Layer] ],[39m
+[34m    methods: { post: true }[39m
+[34m  },[39m
+[34m  user: {[39m
+[34m    _id: new ObjectId('676d3f7ccb28ee4c3e2f927b'),[39m
+[34m    fullName: 'ARUN M',[39m
+[34m    email: 'aa1@gmail.com',[39m
+[34m    profilePic: 'https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg',[39m
+[34m    createdAt: 2024-12-26T11:35:24.239Z,[39m
+[34m    updatedAt: 2024-12-26T11:35:24.239Z,[39m
+[34m    __v: 0[39m
+[34m  },[39m
+[34m  [Symbol(shapeMode)]: true,[39m
+[34m  [Symbol(kCapture)]: false,[39m
+[34m  [Symbol(kHeaders)]: {[39m
+[34m    host: 'localhost:3000',[39m
+[34m    connection: 'keep-alive',[39m
+[34m    'content-length': '256183',[39m
+[34m    pragma: 'no-cache',[39m
+[34m    'cache-control': 'no-cache',[39m
+[34m    'sec-ch-ua-platform': '"Android"',[39m
+[34m    'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36',[39m
+[34m    'sec-ch-ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',[39m
+[34m    'content-type': 'multipart/form-data; boundary=----WebKitFormBoundaryVi5q7elr9DtvkD6B',[39m
+[34m    'sec-ch-ua-mobile': '?1',[39m
+[34m    accept: '*/*',[39m
+[34m    origin: 'http://localhost:3000',[39m
+[34m    'sec-fetch-site': 'same-origin',[39m
+[34m    'sec-fetch-mode': 'cors',[39m
+[34m    'sec-fetch-dest': 'empty',[39m
+[34m    referer: 'http://localhost:3000/auth/profile',[39m
+[34m    'accept-encoding': 'gzip, deflate, br, zstd',[39m
+[34m    'accept-language': 'en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7',[39m
+[34m    cookie: 'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzZkM2Y3Y2NiMjhlZTRjM2UyZjkyN2IiLCJpYXQiOjE3MzUyMTI5MjQsImV4cCI6MTczNTQ3MjEyNH0.TpF9ufDm247cqwLGDu91IFxYOWn5LWC11UiANhLQsOo'[39m
+[34m  },[39m
+[34m  [Symbol(kHeadersCount)]: 38,[39m
+[34m  [Symbol(kTrailers)]: null,[39m
+[34m  [Symbol(kTrailersCount)]: 0[39m
+[34m}[39m
+[26 Dec, 2024 - 17:36:19:3619] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:36:19:3619] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:36:25:3625] [34minfo[39m: [34m[34minfo[34m[39m
+[26 Dec, 2024 - 17:36:54:3654] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:36:54:3654] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:47:38:4738] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:47:38:4738] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:49:24:4924] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:49:24:4924] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:49:27:4927] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:49:27:4927] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:49:37:4937] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:49:37:4937] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:50:21:5021] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:50:21:5021] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:50:38:5038] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:50:38:5038] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:51:41:5141] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:51:41:5141] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:51:57:5157] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:51:57:5157] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:52:01:521] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:52:01:521] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:55:40:5540] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:55:40:5540] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:55:45:5545] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:55:45:5545] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:55:49:5549] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:55:50:5550] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:56:03:563] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:56:03:563] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:56:13:5613] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:56:13:5613] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:56:15:5615] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:56:15:5615] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:56:20:5620] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:56:20:5620] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:56:43:5643] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:56:43:5643] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:57:11:5711] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:57:11:5711] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:57:16:5716] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:57:16:5716] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:57:24:5724] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:57:24:5724] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:57:27:5727] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:57:27:5727] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:58:20:5820] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:58:20:5820] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:58:24:5824] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:58:24:5824] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 17:59:00:590] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 17:59:00:590] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:07:32:732] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:07:32:732] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:08:58:858] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:08:58:858] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:09:02:92] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:02:92] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:09:05:95] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:05:95] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:09:18:918] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:21:921] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:21:921] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:09:29:929] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:29:929] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:09:53:953] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:09:53:953] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:10:00:100] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:10:00:100] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:10:52:1052] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:10:53:1053] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:11:11:1111] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:11:11:1111] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:11:18:1118] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:11:18:1118] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:11:29:1129] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:11:29:1129] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:11:33:1133] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:11:33:1133] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:11:38:1138] [33mwarn[39m: [33m{}[39m
+[26 Dec, 2024 - 18:11:51:1151] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:11:51:1151] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:19:52:1952] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:19:52:1952] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:19:58:1958] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:19:58:1958] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:20:07:207] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:20:07:207] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:22:16:2216] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:22:16:2216] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:22:20:2220] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:22:20:2220] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:28:00:280] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:28:00:280] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:31:20:3120] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:31:20:3120] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:31:23:3123] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:31:23:3123] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:32:28:3228] [31merror[39m: [31muploading profiled pic failedMust supply cloud_name[39m
+[26 Dec, 2024 - 18:33:04:334] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:33:04:334] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:33:10:3310] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:33:11:3311] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:33:18:3318] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:33:19:3319] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:37:24:3724] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:37:24:3724] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:37:40:3740] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
+[26 Dec, 2024 - 18:40:35:4035] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:40:35:4035] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:40:48:4048] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name alpha2[39m
+[26 Dec, 2024 - 18:41:21:4121] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:41:21:4121] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:43:04:434] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:43:04:434] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:43:19:4319] [31merror[39m: [31muploading profiled pic failedCannot create property 'Symbol(level)' on string 'image uploaded'[39m
+[26 Dec, 2024 - 18:46:26:4626] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:46:26:4626] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:46:41:4641] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:46:41:4641] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 18:46:46:4646] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 18:46:46:4646] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:02:47:247] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:02:47:247] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:05:35] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:05:35] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:10:310] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:11:311] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:15:315] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:15:315] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:20:320] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:20:320] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:30:330] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:30:330] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:34:334] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:34:334] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:03:41:341] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:50:350] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:53:353] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:03:53:353] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:04:01:41] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:04:01:41] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:18:58:1858] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:18:58:1858] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:19:01:191] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:19:01:191] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:19:08:198] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:19:08:198] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:20:01:201] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:20:01:201] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:20:06:206] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:20:06:206] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:20:08:208] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:20:08:208] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:20:16:2016] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:20:16:2016] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:20:32:2032] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:20:32:2032] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:23:00:230] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:23:00:230] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:23:03:233] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:23:03:233] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:23:08:238] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:23:08:238] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:24:54:2454] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:24:55:2455] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:33:46:3346] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:33:46:3346] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:33:54:3354] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:33:54:3354] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:34:02:342] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:34:02:342] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:34:35:3435] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:34:35:3435] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:34:43:3443] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:34:44:3444] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m
+[26 Dec, 2024 - 19:34:50:3450] [34minfo[39m: [34mServer is running on port 3000[39m
+[26 Dec, 2024 - 19:34:50:3450] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: localhost[39m
+[34m[39m

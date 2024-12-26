@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ClearTalk Dashboard</title>
+    <title>Chatty Dashboard</title>
     <link rel="stylesheet" href="/css/dashboard.css">
 </head>
 
@@ -17,7 +17,7 @@
                     <path d="M3 3h18v18H3V3zm16 16V5H5v14h14z" />
                     <path d="M15 7v2H7V7h8zm0 4v2H7v-2h8zm0 4v2H7v-2h8z" />
                 </svg>
-                <span class="logo-text">ClearTalk</span>
+                <span class="logo-text">Chatty</span>
             </div>
 
             <div class="sidebar-section">
@@ -39,9 +39,13 @@
             <div class="sidebar-bottom">
                 <div class="user-profile">
                     <div class="user-avatar">
-                        <span class="avatar-letter">A</span>
+                        <span class="avatar-letter">
+                            <%= user.fullName[0] %>
+                        </span>
                     </div>
-                    <span class="user-name">arun m</span>
+                    <span class="user-name">
+                        <%=user.fullName%>
+                    </span>
                 </div>
                 <div class="profile-actions">
                     <button class="action-button edit">
@@ -81,7 +85,7 @@
                 </div>
                 <h1 class="welcome-text">
                     <span class="highlight">Hi!</span> Welcome to
-                    <span class="brand">ClearTalk</span> Chat App.
+                    <span class="brand">Chatty</span> Chat App.
                 </h1>
             </div>
         </main>

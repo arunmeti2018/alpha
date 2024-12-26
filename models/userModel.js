@@ -18,9 +18,9 @@ const userSchema = new mongoose.Schema({
         required: true,
         // minlength: 6
     },
-    profilePic:{
-        type:String,
-        default:""
+    profilePic: {
+        type: String,
+        default: "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg"
 
 
     }

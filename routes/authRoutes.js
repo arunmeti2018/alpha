@@ -11,7 +11,10 @@ router.get("/login", (req, res) => {
     res.render("login")
 })
 router.get("/dashboard", protectRoute, (req, res) => {
-    res.redirect("dashboard")
+    res.render("dashboard", { user: req.user })
+})
+router.get("/profile", protectRoute, (req, res) => {
+    res.render("profile", { user: req.user })
 })
 
 router.post("/signup", signup)

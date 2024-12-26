@@ -42,13 +42,14 @@ const signup = async (req, res) => {
         }
         generateToken(newUser._id, res);
         newUser.save();
-        res.status(201).json({
-            success: true,
-            message: "user created successfully",
-            fullName: newUser.fullName,
-            email: newUser.email,
-            profile: newUser.profile
-        })
+        res.status(201).redirect("/auth/dashboard")
+        // .json({
+        //     success: true,
+        //     message: "user created successfully",
+        //     fullName: newUser.fullName,
+        //     email: newUser.email,
+        //     profile: newUser.profile
+        // })
 
     } catch (error) {
 
@@ -92,16 +93,17 @@ const login = async (req, res) => {
 
         generateToken(user._id, res);
 
-        res.status(200).render("dashboard", {
-            success: true,
-            message: "login successfull",
-            user: {
+        res.status(200).render("dashboard",
+            {
+                success: true,
+                message: "login successfull",
+                user: {
 
-                fullName: user.fullName,
-                email: user.email,
-                profile: user.profile
-            }
-        })
+                    fullName: user.fullName,
+                    email: user.email,
+                    profile: user.profile
+                }
+            })
 
     } catch (error) {
         logger.error("login route failed " + error.message);
@@ -131,6 +133,8 @@ const updateProfile = async (req, res) => {
     try {
         const { profilePic } = req.body;
 
+
+
         if (!profilePic) {
             return res.status(400).json({
                 success: false,
@@ -148,7 +152,6 @@ const updateProfile = async (req, res) => {
             });
         }
         const updatedUser = await User.findByIdAndUpdate(req.user._id, { profilePic: uploadedResponse.secure_url }, { new: true }).select("-password")
-
 
         res.status(200).json({
             success: true,

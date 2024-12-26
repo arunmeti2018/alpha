@@ -17,41 +17,41 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 
-    signupForm.addEventListener('submit', async function (e) {
-        e.preventDefault();
-        const fullName = document.getElementById('fullName').value;
-        const email = document.getElementById('email').value;
-        const password = document.getElementById('password').value;
+    // signupForm.addEventListener('submit', async function (e) {
+    //     e.preventDefault();
+    //     const fullName = document.getElementById('fullName').value;
+    //     const email = document.getElementById('email').value;
+    //     const password = document.getElementById('password').value;
 
-        try {
-            // Send signup data to the server
-            const response = await fetch(`${baseUrl}/auth/signup`, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ fullName, email, password }),
-                credentials: "include",
-            });
+    //     try {
+    //         // Send signup data to the server
+    //         const response = await fetch(`${baseUrl}/auth/signup`, {
+    //             method: 'POST',
+    //             headers: {
+    //                 'Content-Type': 'application/json',
+    //             },
+    //             body: JSON.stringify({ fullName, email, password }),
+    //             credentials: "include",
+    //         });
 
-            const responseData = await response.json();
+    //         const responseData = await response.json();
 
-            if (responseData.success) {
-                console.log('Signup successful:', responseData);
+    //         if (responseData.success) {
+    //             console.log('Signup successful:', responseData);
 
-                // Optionally store user data in sessionStorage
-                sessionStorage.setItem('userData', JSON.stringify(responseData));
+    //             // Optionally store user data in sessionStorage
+    //             sessionStorage.setItem('userData', JSON.stringify(responseData));
 
-                // Redirect to dashboard
-                alert(`${responseData.message}. Redirecting to dashboard...`);
-                window.location.href = '/dashboard'; // Update with the correct dashboard file path
-            } else {
-                alert(`Signup failed: ${responseData.message || 'Unknown error'}`);
-            }
-        } catch (error) {
-            console.error('Error during signup:', error);
-            alert('An error occurred. Please try again.');
-        }
-    });
+    //             // Redirect to dashboard
+    //             alert(`${responseData.message}. Redirecting to dashboard...`);
+    //             window.location.href = '/dashboard'; // Update with the correct dashboard file path
+    //         } else {
+    //             alert(`Signup failed: ${responseData.message || 'Unknown error'}`);
+    //         }
+    //     } catch (error) {
+    //         console.error('Error during signup:', error);
+    //         alert('An error occurred. Please try again.');
+    //     }
+    // });
 
 });

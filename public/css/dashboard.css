@@ -89,7 +89,10 @@ body {
     color: var(--text-primary);
 }
 
-.user-list, .channel-list {
+.user-list,
+.channel-list {
+    max-height: 50vh;
+    overflow-y: scroll;
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -288,4 +291,3 @@ body {
         padding: 0 1rem;
     }
 }
-

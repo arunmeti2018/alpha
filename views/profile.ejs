@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Dashboard</title>
+    <link rel="stylesheet" href="/css/profile.css">
+</head>
+
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <svg class="chat-icon" viewBox="0 0 24 24" width="24" height="24">
+                    <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z" />
+                </svg>
+                <h1>Chatty</h1>
+            </div>
+            <nav class="nav-actions">
+                <button class="nav-button" id="home">
+                    <svg viewBox="0 0 24 24" width="20" height="20">
+                        <path
+                            d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5zm7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-.98l2.11-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.42l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98 0 .33.03.65.07.97l-2.11 1.65c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.98l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.65z" />
+                    </svg>
+                    <span>Home</span>
+                </button>
+                <button class="nav-button active">
+                    <svg viewBox="0 0 24 24" width="20" height="20">
+                        <path
+                            d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
+                    </svg>
+                    <span>Profile</span>
+                </button>
+                <button class="nav-button" id="logout">
+                    <svg viewBox="0 0 24 24" width="20" height="20">
+                        <path
+                            d="M17 7l-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z" />
+                    </svg>
+                    <span>Logout</span>
+                </button>
+            </nav>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="profile-container">
+                <h2 class="section-title">Profile</h2>
+                <p class="section-subtitle">Your profile information</p>
+
+                <!-- Profile Photo Section -->
+                <div class="profile-photo-section">
+                    <div id="profileForm">
+
+
+
+
+
+
+                        <div class="profile-photo">
+                            <img src="<%= user.profilePic %>" class="react-logo" id="previewImage" alt="P"
+                                height="120px">
+                            <button type="button" class="camera-button" title="Update photo">
+                                <svg viewBox="0 0 24 24" width="24" height="24">
+                                    <path
+                                        d="M20 5h-3.17L15 3H9L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm-5 11.5c-2.48 0-4.5-2.02-4.5-4.5s2.02-4.5 4.5-4.5 4.5 2.02 4.5 4.5-2.02 4.5-4.5 4.5z" />
+                                </svg>
+                            </button>
+                        </div>
+                        <p class="photo-hint">Click the camera icon to update your photo</p>
+                        <input type="file" id="fileInput" name="profilePic" accept="image/*" style="display: none">
+                        <button type="submit" id="uploadButton" class="submit-button">Update</button>
+                    </div>
+                </div>
+
+                <!-- Profile Info -->
+                <div class="profile-info">
+                    <div class="info-group">
+                        <label>
+                            <svg viewBox="0 0 24 24" width="20" height="20">
+                                <path
+                                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
+                            </svg>
+                            Full Name
+                        </label>
+                        <div class="info-value">
+                            <%=user.fullName%>
+                        </div>
+                    </div>
+
+                    <div class="info-group">
+                        <label>
+                            <svg viewBox="0 0 24 24" width="20" height="20">
+                                <path
+                                    d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+                            </svg>
+                            Email Address
+                        </label>
+                        <div class="info-value">
+                            <%=user.email%>
+                        </div>
+                    </div>
+
+                    <!-- Account Information -->
+                    <div class="account-info">
+                        <h3>Account Information</h3>
+                        <div class="info-row">
+                            <span class="info-label">Member Since</span>
+                            <span class="info-value">
+                                <%= new Date(user.createdAt).toLocaleDateString("en-IN", { year: "numeric" ,
+                                    month: "long" , day: "numeric" }) %>
+
+                            </span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">Account Status</span>
+                            <span class="info-value status-active">Active</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/js/profile.js"></script>
+</body>
+
+</html>

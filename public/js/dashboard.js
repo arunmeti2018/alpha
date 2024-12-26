@@ -3,7 +3,7 @@ const baseUrl = "http://localhost:3000"
 document.addEventListener('DOMContentLoaded', function () {
     const userData = sessionStorage.getItem('userData');
     if (!userData) {
-        window.location.href = './login.html';  // Redirect to login if not logged in
+        window.location.href = './login.ejs';  // Redirect to login if not logged in
     } else {
         // console.log('User data:', JSON.parse(userData));
         console.log(document.cookie)
@@ -23,7 +23,12 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 
-
+    document.querySelector(".edit").addEventListener('click', () => {
+        window.location.href = '/auth/profile';
+    })
+    document.querySelector(".logout").addEventListener('click', () => {
+        window.location.href = '/auth/login';
+    })
 
 
 
@@ -64,11 +69,11 @@ const usersForSidebar = async () => {
             users.forEach(user => {
                 const listItem = document.createElement('li');
                 listItem.classList.add('user-item');
-                const avatar = "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png"
+
                 // Use user data for avatar and name ""
                 listItem.innerHTML = `
                     <div class="user-avatar">
-                        <img src="${avatar}" alt = "${user.fullName} avatar" >
+                        <img src="${user.profilePic}" alt = "${user.fullName} avatar" >
                     </div >
     <span class="user-name">${user.fullName}</span>
 `;
