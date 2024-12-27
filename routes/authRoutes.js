@@ -16,6 +16,9 @@ router.get("/dashboard", protectRoute, (req, res) => {
 router.get("/profile", protectRoute, (req, res) => {
     res.render("profile", { user: req.user })
 })
+router.get("/chat", protectRoute, (req, res) => {
+    res.render("chat")
+})
 
 router.post("/signup", signup)
 router.post("/login", login)

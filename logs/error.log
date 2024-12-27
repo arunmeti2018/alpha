@@ -31,3 +31,10 @@
 [26 Dec, 2024 - 18:37:40:3740] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name Alpha[39m
 [26 Dec, 2024 - 18:40:48:4048] [31merror[39m: [31muploading profiled pic failedInvalid cloud_name alpha2[39m
 [26 Dec, 2024 - 18:43:19:4319] [31merror[39m: [31muploading profiled pic failedCannot create property 'Symbol(level)' on string 'image uploaded'[39m
+[27 Dec, 2024 - 17:53:59:5359] [31merror[39m: [31merror in getmessage controller $or is not defined[39m
+[27 Dec, 2024 - 17:54:04:544] [31merror[39m: [31merror in getmessage controller $or is not defined[39m
+[27 Dec, 2024 - 17:54:43:5443] [31merror[39m: [31merror in getmessage controller $or is not defined[39m
+[27 Dec, 2024 - 17:56:58:5658] [31merror[39m: [31merror in getmessage controller Cast to ObjectId failed for value "send" (type string) at path "senderId" for model "Message"[39m
+[27 Dec, 2024 - 17:58:49:5849] [31merror[39m: [31merror in getmessage controller Cast to ObjectId failed for value "send" (type string) at path "senderId" for model "Message"[39m
+[27 Dec, 2024 - 18:00:33:033] [31merror[39m: [31merror in getmessage controller Cast to ObjectId failed for value "send" (type string) at path "senderId" for model "Message"[39m
+[27 Dec, 2024 - 18:11:07:117] [31merror[39m: [31merror in getmessage controller Cast to ObjectId failed for value "undefined" (type string) at path "senderId" for model "Message"[39m

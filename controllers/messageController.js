@@ -30,9 +30,14 @@ const getMessage = async (req, res) => {
             return res.status(400).json({ success: false, message: "Chat id is required" });
         }
         const myId = req.user._id;
-        const messages = await Message.find($or[
-            { receiverId: chatToSendId, senderId: myId },
-            { receiverId: myId, senderId: chatToSendId }]);
+        logger.info(chatToSendId, myId)
+
+        const messages = await Message.find({
+            $or: [
+                { receiverId: chatToSendId, senderId: myId },
+                { receiverId: myId, senderId: chatToSendId }
+            ]
+        });
 
         if (!messages) {
             return res.status(404).json({
